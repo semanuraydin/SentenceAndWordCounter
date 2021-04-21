@@ -1,0 +1,7 @@
+C:\Users\bjw5sgb\source\repos\SentenceAndWordCounter\SentenceAndWordCounter\obj\Debug\SentenceAndWordCounter.csprojAssemblyReference.cache
+C:\Users\bjw5sgb\source\repos\SentenceAndWordCounter\SentenceAndWordCounter\obj\Debug\SentenceAndWordCounter.csproj.CoreCompileInputs.cache
+C:\Users\bjw5sgb\source\repos\SentenceAndWordCounter\SentenceAndWordCounter\bin\Debug\SentenceAndWordCounter.exe.config
+C:\Users\bjw5sgb\source\repos\SentenceAndWordCounter\SentenceAndWordCounter\bin\Debug\SentenceAndWordCounter.exe
+C:\Users\bjw5sgb\source\repos\SentenceAndWordCounter\SentenceAndWordCounter\bin\Debug\SentenceAndWordCounter.pdb
+C:\Users\bjw5sgb\source\repos\SentenceAndWordCounter\SentenceAndWordCounter\obj\Debug\SentenceAndWordCounter.exe
+C:\Users\bjw5sgb\source\repos\SentenceAndWordCounter\SentenceAndWordCounter\obj\Debug\SentenceAndWordCounter.pdb
